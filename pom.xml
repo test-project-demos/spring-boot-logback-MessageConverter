@@ -60,90 +60,71 @@
         </dependency>
 
         <!-- 排除掉各种logger -->
-        <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-            <version>99.0-does-not-exist</version>
-        </dependency>
-        <dependency>
-            <groupId>commons-logging</groupId>
-            <artifactId>commons-logging</artifactId>
-            <version>999-not-exist</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>log4j</groupId>-->
+<!--            <artifactId>log4j</artifactId>-->
+<!--            <version>99.0-does-not-exist</version>-->
+<!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>commons-logging</groupId>-->
+<!--            <artifactId>commons-logging</artifactId>-->
+<!--            <version>999-not-exist</version>-->
+<!--        </dependency>-->
 
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-nop</artifactId>
-            <version>999-not-exist-v3</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.slf4j</groupId>-->
+<!--            <artifactId>slf4j-nop</artifactId>-->
+<!--            <version>999-not-exist-v3</version>-->
+<!--        </dependency>-->
 
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-log4j12</artifactId>
-            <version>999-not-exist-v3</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.slf4j</groupId>-->
+<!--            <artifactId>slf4j-log4j12</artifactId>-->
+<!--            <version>999-not-exist-v3</version>-->
+<!--        </dependency>-->
 
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-simple</artifactId>
-            <version>999-not-exist-SNAPSHOT</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.slf4j</groupId>-->
+<!--            <artifactId>slf4j-simple</artifactId>-->
+<!--            <version>999-not-exist-SNAPSHOT</version>-->
+<!--        </dependency>-->
 
-        <dependency>
-            <groupId>com.alibaba.external</groupId>
-            <artifactId>jakarta.commons.logging</artifactId>
-            <version>999-not-exist-v3</version>
-        </dependency>
-
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-jcl</artifactId>
-            <version>999-not-exist-SNAPSHOT</version>
-        </dependency>
-
-        <!-- 排除掉低版本的spring -->
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring</artifactId>
-            <version>999-not-exist-v3</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.springframework</groupId>-->
+<!--            <artifactId>spring-jcl</artifactId>-->
+<!--            <version>999-not-exist-SNAPSHOT</version>-->
+<!--        </dependency>-->
 
         <!-- 排除掉各种servlet-api -->
-        <dependency>
-            <groupId>javax.servlet</groupId>
-            <artifactId>servlet-api</artifactId>
-            <version>99.0-does-not-exist</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>javax.servlet</groupId>-->
+<!--            <artifactId>servlet-api</artifactId>-->
+<!--            <version>99.0-does-not-exist</version>-->
+<!--        </dependency>-->
 
-        <dependency>
-            <groupId>servlet-api</groupId>
-            <artifactId>servlet-api</artifactId>
-            <version>999-no-exist-SNAPSHOT</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>servlet-api</groupId>-->
+<!--            <artifactId>servlet-api</artifactId>-->
+<!--            <version>999-no-exist-SNAPSHOT</version>-->
+<!--        </dependency>-->
 
-        <dependency>
-            <groupId>javax.j2ee</groupId>
-            <artifactId>j2ee</artifactId>
-            <version>999-not-exist</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>javax.j2ee</groupId>-->
+<!--            <artifactId>j2ee</artifactId>-->
+<!--            <version>999-not-exist</version>-->
+<!--        </dependency>-->
 
-        <dependency>
-            <groupId>com.alibaba.external</groupId>
-            <artifactId>java.j2ee</artifactId>
-            <version>999-not-exist</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.mortbay.jetty</groupId>-->
+<!--            <artifactId>servlet-api</artifactId>-->
+<!--            <version>999-not-exist</version>-->
+<!--        </dependency>-->
 
-        <dependency>
-            <groupId>org.mortbay.jetty</groupId>
-            <artifactId>servlet-api</artifactId>
-            <version>999-not-exist</version>
-        </dependency>
-
-        <dependency>
-            <groupId>tomcat</groupId>
-            <artifactId>servlet-api</artifactId>
-            <version>999-no-exist-SNAPSHOT</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>tomcat</groupId>-->
+<!--            <artifactId>servlet-api</artifactId>-->
+<!--            <version>999-no-exist-SNAPSHOT</version>-->
+<!--        </dependency>-->
 
         <dependency>
             <groupId>com.alibaba</groupId>
